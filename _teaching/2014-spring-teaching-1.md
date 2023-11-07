@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Manipal Institute of Technology"
-excerpt: "About me"
+excerpt: "MIT"
 author_profile: true
 ---
 
