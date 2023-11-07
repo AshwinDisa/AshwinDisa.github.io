@@ -24,7 +24,7 @@ permalink: /experience/
 :   Research Intern, _December 2022 - May 2023_
 * E-Yantra Summer Internship Program, IIT Bombay (Online)
 :   Summer Intern, _June 2022 - July 2022_
-* Manipal Institute of technology, Manipal
+* Manipal Institute of Technology, Manipal
 :   Undergraduate Researcher, _December 2021 - September 2022_
 * Aero2Astro (Online)
 :   Intern - _July 2021 - November 2021_
