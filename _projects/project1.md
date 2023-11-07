@@ -1,7 +1,8 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multi-Robot System"
+excerpt: "Path planning and obstacle avoidance of a multi-robot system (5 drones) for FOD (Foreign Object Debris) detection on runways.<br/><img src='/images/runway_coverage_comparison.png'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Implemented Reciprocal Velocity Obstacle for obstacle avoidance and DFS (Depth First Search) algorithm for coverage.
+<br/><img src='/images/runway_coverage_comparison.png'>"
