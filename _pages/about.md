@@ -12,7 +12,7 @@ I'm a master's student at Worcester Polytechnic Institute (WPI) majoring in Robo
 
 Previously, I worked at the [Robotics Research Center](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiG6trKsamCAxWGFlkFHQa8C1YQFnoECBQQAQ&url=https%3A%2F%2Frobotics.iiit.ac.in%2F&usg=AOvVaw3I3fueOiQE77rMKvyMA-JC&opi=89978449), IIIT Hyderabad in collaboration with Arka Aerospace as an intern under the supervision of Dr. Spandan Roy, where I worked on a multi-robot system of drones for FOD (Foreign Object Debris) detection on runways focusing on path planning and obstacle ovoidance. 
 
-I also participated in the [E-Yantra](https://www.e-yantra.org/) Robotics Competition 2021-22 hosted by IIT, Bombay. Our team won the competetion out of 242 teams in the [DairyBike theme](https://www.youtube.com/watch?v=JBToTeWyXHE). Subsequently, I got an opportunity to work at E-Yantra's summer internship program, where I implemented a PID controller on an Omnidirectional Micro Aerial Vehicle (OMAV) in simulation environment. 
+I also participated in the [E-Yantra](https://www.e-yantra.org/) Robotics Competition 2021-22 hosted by IIT, Bombay. Our team won the competition out of 242 teams in the [DairyBike theme](https://www.youtube.com/watch?v=JBToTeWyXHE). Subsequently, I got an opportunity to work at E-Yantra's summer internship program, where I implemented a PID controller on an Omnidirectional Micro Aerial Vehicle (OMAV) in simulation environment. 
 
 
 
