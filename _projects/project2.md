@@ -20,6 +20,6 @@ The system has been tested and validated using the following hardware after exte
 
 Following video shows the follow and interception visualization.
 
-[<img src="https://i9.ytimg.com/vi/WRNtdgOR854/mqdefault.jpg?sqp=COCbqqoG-oaymwEmCMACELQB8quKqQMa8AEB-AH4BoAC0AWKAgwIABABGFsgZShcMA8=&rs=AOn4CLDPW8ycePypXzwacQ_8aUh3KS49GQ" width="60%">](https://www.youtube.com/watch?v=WRNtdgOR854 "Counter UAV system")
+[<img src="https://i9.ytimg.com/vi/WRNtdgOR854/mqdefault.jpg?sqp=COCbqqoG-oaymwEmCMACELQB8quKqQMa8AEB-AH4BoAC0AWKAgwIABABGFsgZShcMA8=&rs=AOn4CLDPW8ycePypXzwacQ_8aUh3KS49GQ">](https://www.youtube.com/watch?v=WRNtdgOR854 "Counter UAV system")
 
 Contributors: Suraj Bonagiri
