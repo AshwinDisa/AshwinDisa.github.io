@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /projects/      
+    url: /_projects/      
 
   # - title: "Projects"
   #   url: /projects/
