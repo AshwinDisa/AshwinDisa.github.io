@@ -9,10 +9,12 @@ layout: archive
 # location: "San Francisco, California"
 ---
 
-## Manipal Institute of technology
-Undergraduate Researcher - _Dec 2021 - Sep 2022_
+<!-- ## Manipal Institute of technology
+Undergraduate Researcher - _Dec 2021 - Sep 2022_ -->
 
 * Manipal Institute of technology 
-      * Undergraduate Researcher - _Dec 2021 - Sep 2022_
+    * Undergraduate Researcher - _December 2021 - September 2022_
+* Aero2Astro
+    * Intern - _July 2021 - November 2021_
 
 
