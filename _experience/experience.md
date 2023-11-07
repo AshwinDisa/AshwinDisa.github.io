@@ -1,11 +1,12 @@
 ---
 title: " "
-collection: experience
-type: "Talk"
+# collection: experience
+# type: "Talk"
 permalink: /talks/2012-03-01-talk-1
-venue: " "
-date: 2012-03-01
-location: "San Francisco, California"
+layout: archive
+# venue: " "
+# date: 2012-03-01
+# location: "San Francisco, California"
 ---
 
 ## Manipal Institute of technology
