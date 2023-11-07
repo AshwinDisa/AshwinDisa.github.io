@@ -6,6 +6,6 @@ collection: projects
 
 Implemented a follow and intercept algorithm in the velocity space. 
 
-<br/><img src='/images/velocity_space.png'>"
+<br/><img src='/images/vel_space.png'>"
 
 Contributors: Suraj Bonagiri
