@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Landing of a UAV"
-excerpt: "Autonomous Landing of a UAV on a custom ground marker using Image Based Visual Servoing (IBVS). <br/><img src='/images/drone.png' width='300' class='center'/>"
+excerpt: "Autonomous Landing of a UAV on a custom ground marker using Image Based Visual Servoing (IBVS). <br/><img src='/images/drone.png' width='300' align='center'/>"
 collection: projects
 ---
 
