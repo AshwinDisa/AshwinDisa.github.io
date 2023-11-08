@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Landing of a UAV on custom ground marker"
-excerpt: "<br/><img src='/images/drone.png'>"
+excerpt: "<br/><img src='/images/drone.png' width='300'/>"
 collection: projects
 ---
 
@@ -22,5 +22,5 @@ simulations and outdoor experimentation. The results show the
 accuracy and robustness of the proposed autonomous landing
 strategy.
 
-[Download paper here](/files/181_ieee_format.pdf),  [Publication link](https://ieeexplore.ieee.org/document/10270190)
+[Download paper here](/files/181_ieee_format.pdf)
 
