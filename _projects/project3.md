@@ -1,16 +1,18 @@
 ---
 title: "LQR controller for a self-balancing bike"
-excerpt: "LQR .<br/><img src='/images/runway_coverage_comparison.png' width="60%">"
+excerpt: "As a part of E-Yantra Robotics Competition 2021-22, theme: DairyBike.<br/><img src='/images/dairybike.png'>"
 collection: projects
 ---
 
-Implemented RVO (Reciprocal Velocity Obstacle) for obstacle avoidance and DFS (Depth First Search) algorithm for coverage to detect FODs on runways as a part of Meher Baba Challenge.
+Problem statement of E-Yantra Robotics Competititon 2021-2022, theme DairyBike 
+:   Stabilize a two wheeled bike using a flywheel mechanism using an LQR controller.
+:   Use the bike to deliver dairy products using a robotic arm in the given arena in shortest time.
+:   Point system for each delivery and penalties, team scoring highest points wins. 
 
-<br/><img src='/images/runway_coverage_comparison.png'>"
+The following video explains the procedure followed along with a demonstation of the bike delivering in the arena.
 
-### RVO implementation
-5 drones are placed on the circumference of a circle equidistant from each other. Goal is to reach the diametrically opposite point on the circle avoiding each other. Click the image to watch RVO results.
+<!-- <br/><img src='/images/runway_coverage_comparison.png'>" -->
 
-[<img src="https://i9.ytimg.com/vi_webp/EIWhbqbbenI/mq1.webp?sqp=CLCSqqoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACtgWKAgwIABABGEEgPyh_MA8=&rs=AOn4CLC6QbjhkzoixdIl42yQM45stk4BDw" width="60%">](https://www.youtube.com/watch?v=EIWhbqbbenI "Reciprocal Velocity Obstacle")
+[<img src="/images/dairybike2.png">](https://youtu.be/JBToTeWyXHE "DairyBike")
 
-Contributors: Suraj Bonagiri
+Contributors: Kallol Saha, Srujan Kulkarni, Tanaya Gupte
