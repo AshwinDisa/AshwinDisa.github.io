@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Aerial Robotics and UAV Technology. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
+📖️ I'm a master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Aerial Robotics and UAV Technology. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
 
 Previously, I worked at the [Robotics Research Center](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiG6trKsamCAxWGFlkFHQa8C1YQFnoECBQQAQ&url=https%3A%2F%2Frobotics.iiit.ac.in%2F&usg=AOvVaw3I3fueOiQE77rMKvyMA-JC&opi=89978449), IIIT Hyderabad in collaboration with Arka Aerospace as an intern under the supervision of Dr. Spandan Roy, where I worked on a decentralized multi-agent system of drones for FOD (Foreign Object Debris) detection on runways focusing on path planning and obstacle avoidance. 
 
