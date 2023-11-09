@@ -12,7 +12,7 @@ This is shown in the following video.
 
 To test and validate the controller we performed trajectory tracking. This is shown in the following video. 
 
-[<img src="/images/omav_traj.png" width='350'>](https://www.youtube.com/watch?v=toGjcutkSks "OMAV")
+[<img src="/images/omav_traj.png" width='400'>](https://www.youtube.com/watch?v=toGjcutkSks "OMAV")
 
 The control structure of OMAV is shown below.
 

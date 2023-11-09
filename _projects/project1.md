@@ -12,4 +12,5 @@ Implemented RVO (Reciprocal Velocity Obstacle) for obstacle avoidance and DFS (D
 [<img src="/images/rvo.png">](https://www.youtube.com/watch?v=EIWhbqbbenI "Reciprocal Velocity Obstacle")
 
 Contributors: Suraj Bonagiri
+
 Part of internship at Robotics Research Center, IIIT Hyderabad in collaboration with Arka Aerospace.
