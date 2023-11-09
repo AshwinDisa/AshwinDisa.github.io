@@ -16,3 +16,4 @@ The following video explains the procedure followed along with a demonstration o
 [Repository Link](https://github.com/AshwinDisa/DairyBike1245)
 
 Contributors: Kallol Saha, Srujan Kulkarni, Tanaya Gupte
+Part of E-Yantra Robotics Competition 2021-22
