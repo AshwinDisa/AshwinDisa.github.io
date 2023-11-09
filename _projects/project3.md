@@ -11,8 +11,8 @@ Problem statement of E-Yantra Robotics Competititon 2021-2022, theme DairyBike
 
 The following video explains the procedure followed along with a demonstration of the bike delivering in the arena.
 
-<!-- <br/><img src='/images/runway_coverage_comparison.png'>" -->
-
 [<img src="/images/dairybike2.png">](https://youtu.be/JBToTeWyXHE "DairyBike")
+
+[Repository Link](https://github.com/AshwinDisa/DairyBike1245)
 
 Contributors: Kallol Saha, Srujan Kulkarni, Tanaya Gupte
