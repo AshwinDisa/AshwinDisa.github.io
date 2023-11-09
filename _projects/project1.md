@@ -1,5 +1,5 @@
 ---
-title: "Multi-Robot System"
+title: "Decentralized Multi-Agent path planning"
 excerpt: "Path planning and obstacle avoidance of a multi-robot system (5 drones) for FOD (Foreign Object Debris) detection on runways.<br/><img src='/images/runway_coverage_comparison.png' width='600'/>"
 collection: projects
 ---
