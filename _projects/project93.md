@@ -1,6 +1,6 @@
 ---
 title: "Centralized Multi-Robot Path Planning using dRRT Algorithm"
-excerpt: "Plan a path for multiple robots simultaneously by treating the robots as a single composite system with many degrees of freedom.<br/><img src='/images/mujoco.png' width='500'/>"
+excerpt: "Plan a path for multiple robots simultaneously by treating the robots as a single composite system with many degrees of freedom.<br/><img src='/images/mujoco.png' width='400'/>"
 collection: projects
 ---
 
@@ -10,4 +10,4 @@ Abstract—This project aims to plan a path for multiple robots simultaneously b
 
 Contributors: Manoj Velmurugan
 
-Final project for RBE550 - Motion Planning by Prof. Constantinos Chamzas at WPI.
+Final project for RBE550 - Motion Planning Fall 2023 by Prof. Constantinos Chamzas at WPI.
