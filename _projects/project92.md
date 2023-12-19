@@ -9,7 +9,7 @@ Given the joint angles, the goal is to estimate the end -effector position.
 
 The DH parameters table used for Forward Kinematics is shown here.
 
-<br/><img src='/images/dh.png'>"
+<br/><img src='/images/dh.png' width='600/>"
 
 The equations to obtain the x, y and z coordinates of the end-effector are - 
 
@@ -23,7 +23,7 @@ z = 48163/500 - (651*math.sin(q2 - 139/100))/5 - 124*math.sin(q2 + q3) - (667*ma
 
 ### Inverse Kinemtics
 Given the end-effector positions in x, y, z, the goal is to estimate the joint angles.
-This was done using analytical/geometric approach. The 4 dof problem of broken down into a 3-link planar chain (for q2, q3, q4) and a yaw (for q1) problem. The algorithm makes sure that the end-effector joint always faces down rather an arbitrary orientation, which makes pick/place easier. The following code snippet shows the code to calculate the joint angles.
+This was done using analytical/geometrical approach. The 4 dof problem is broken down into a 3-link planar chain (for q2, q3, q4) and a yaw (for q1) problem. The algorithm makes sure that the end-effector joint always faces down rather an arbitrary orientation, which makes pick/place easier. The following code snippet shows the code to calculate the joint angles.
 
 ```
 def inverse_kinematics(self, xe, ye, ze, gamma):
@@ -111,7 +111,7 @@ def makeJacobian(self, q1, q2, q3, q4):
 
 [Github repo link](https://github.com/AshwinDisa/OpenManipulatorX_ROS2)
 
-[<img src="/images/openmanipulatorX.jpg">](https://youtube.com/shorts/_iANV6D9pfc "Pick and Place using Inverse Kinematics")
+[Pick and Place using Inverse Kinematics](https://youtube.com/shorts/_iANV6D9pfc)
 
 Contributors: Samuel Rooney, Pingze He
 
