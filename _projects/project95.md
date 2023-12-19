@@ -22,6 +22,8 @@ Following video shows the follow and interception visualization.
 
 [<img src="/images/counter_uav_viz.png">](https://www.youtube.com/watch?v=WRNtdgOR854 "Counter UAV system")
 
+[Github repo link](https://github.com/AshwinDisa/Counter_UAV_system)
+
 Contributors: Suraj Bonagiri
 
 Part of internship at Robotics Research Center, IIIT Hyderabad in collaboration with Arka Aerospace.
