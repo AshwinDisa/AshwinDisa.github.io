@@ -9,7 +9,7 @@ Given the joint angles, the goal is to estimate the end -effector position.
 
 The DH parameters table used for Forward Kinematics is shown here.
 
-<br/><img src='/images/dh.png' width='600/>"
+<br/><img src='/images/dh.png' width='600'/>"
 
 The equations to obtain the x, y and z coordinates of the end-effector are - 
 
