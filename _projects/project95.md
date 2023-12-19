@@ -1,6 +1,6 @@
 ---
 title: "Counter-UAV System"
-excerpt: "Path planning and communication pipeline of a Drone interception system. <br/><img src='/images/counter.png'>"
+excerpt: "Path planning and communication pipeline of a Drone interception system. <br/><img src='/images/counter.png' width='400'>"
 collection: projects
 ---
 
