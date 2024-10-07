@@ -20,6 +20,8 @@ permalink: /experience/
 * Project MANAS, Manipal
     * Mechanical Division Head, _April 2021 - May 2022_ -->
 
+* Perception and Autonomous Robotics Group, WPI
+:   Research Assistant, _Jul 2024 - Present_
 * Robotics Research Center, IIIT Hyderabad
 :   Research Intern, _December 2022 - May 2023_
 * E-Yantra Summer Internship Program, IIT Bombay (Online)
