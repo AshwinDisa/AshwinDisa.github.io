@@ -11,6 +11,12 @@ obtain the camera poses of the monocular camera with respect to the given scene.
 rejection using RANSAC, Estimating Fundamental using epipolar constraint and Essential Matrix, Estimate Camera Pose and
 Cheirality condition using Triangulation, PnP and Bundle Adjustment. 
 
+#### Input images
+
+<br/><img src='/images/sfm_merged_4.png' width='600'/>"
+
+#### Reconstructed scene
+
 <br/><img src='/images/sfm.png' width='600'/>"
 
 ### Neural Radiance Field (NeRF)
