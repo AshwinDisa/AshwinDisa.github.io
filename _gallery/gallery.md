@@ -9,12 +9,19 @@ permalink: /gallery/
 # location: "San Francisco, California"
 ---
 
+## Nokia Bell Labs
+
+<div style="display: inline-block;">
+  <img src="/images/gallery/nokia_entrance.jpeg" width="300" style="vertical-align: top; margin-right: 10px;" />
+  <img src="/images/gallery/nokia_auditorium.jpeg" width="300" style="vertical-align: top;" />
+</div>
+
 ## Perception and Autonomous Robotics (PeAR) group, WPI
 
 <div style="display: flex;">
   <img src="/images/gallery/with_prof.jpeg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/team2.jpg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/team1.jpg" width="300" />
+  <img src="/images/gallery/team1.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/team2.jpg" width="300" />
 </div>
 
 ## Capstone project presentation, WPI
@@ -23,3 +30,4 @@ permalink: /gallery/
   <img src="/images/gallery/capstone1.JPG" width="300" style="vertical-align: top; margin-right: 10px;" />
   <img src="/images/gallery/capstone2.JPG" width="300" style="vertical-align: top;" />
 </div>
+
