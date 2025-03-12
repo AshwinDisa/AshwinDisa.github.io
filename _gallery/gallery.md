@@ -11,4 +11,7 @@ permalink: /gallery/
 
 ## Overall pipeline
 
-<img src='/images/einstein_vision/einstein_vision_pipeline.png' width='600'/>
+<div style="display: inline-block;">
+  <img src="/images/einstein_vision/einstein_vision_pipeline.png" width="300" style="vertical-align: top; margin-right: 10px;" />
+  <img src="/images/einstein_vision/einstein_vision_pipeline.png" width="300" style="vertical-align: top;" />
+</div>
