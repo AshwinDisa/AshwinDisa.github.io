@@ -42,14 +42,14 @@ permalink: /gallery/
 
 <div style="display: flex;">
   <img src="/images/gallery/eysip1.jpg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/eysip2.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/eysip3.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Project Manas, Manipal Institute of Technology
 
 <div style="display: flex;">
   <img src="/images/gallery/manas.JPG" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/manas2.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/manas2.jpg" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/manas3.JPG" width="300" />
 </div>
 
