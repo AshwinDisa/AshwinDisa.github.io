@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashwin Disa"
-  avatar           : "nokia_entrance_zoomed.jpeg"
+  avatar           : "/gallery/nokia_entrance_zoomed.jpeg"
   bio              : "Learning Robotics"
   location         : "Worcester, MA"
   employer         : "Worcester Polytechnic Institute"
