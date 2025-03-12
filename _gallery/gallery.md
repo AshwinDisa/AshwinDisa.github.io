@@ -1,8 +1,8 @@
 ---
-title: "Experience"
+title: "Gallery"
 # collection: experience
 # type: "Talk"
-permalink: /experience/
+permalink: /gallery/
 # layout: archive
 # venue: " "
 # date: 2012-03-01
