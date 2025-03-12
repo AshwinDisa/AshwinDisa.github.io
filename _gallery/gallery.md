@@ -26,7 +26,7 @@ permalink: /gallery/
 ## Robotics capstone project presentation, WPI
 
 <div style="display: flex;">
-  <img src="/images/gallery/capstone1.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/capstone3.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/capstone2.JPG" width="300" style="margin-right: 10px;" />
 </div>
 
@@ -37,5 +37,22 @@ permalink: /gallery/
   <!-- <img src="/images/gallery/wpi_gompei.jpg" width="300" style="margin-right: 10px;" /> -->
   <img src="/images/gallery/wpi_gompei2.jpg" width="300" />
 </div>
+
+## EYantra Summer Internship program, IIT Bombay
+
+<div style="display: flex;">
+  <img src="/images/gallery/eysip1.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/eysip2.jpg" width="300" style="margin-right: 10px;" />
+</div>
+
+## Project Manas, Manipal Institute of Technology
+
+<div style="display: flex;">
+  <img src="/images/gallery/manas.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/manas2.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/manas3.JPG" width="300" />
+</div>
+
+
 
 
