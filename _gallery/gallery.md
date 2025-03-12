@@ -25,16 +25,16 @@ permalink: /gallery/
 
 ## Robotics capstone project presentation, WPI
 
-<div style="display: inline-block;">
-  <img src="/images/gallery/capstone1.JPG" width="300" style="vertical-align: top; margin-right: 10px;" />
-  <img src="/images/gallery/capstone2.JPG" width="300" style="vertical-align: top;" />
+<div style="display: flex;">
+  <img src="/images/gallery/capstone1.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/capstone2.JPG" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Worcester Polytechnic Institute (WPI)
 
-<div style="display: inline-block;">
+<div style="display: flex;">
   <img src="/images/gallery/wpi.jpg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/wpi_gompei.jpg" width="300" style="margin-right: 10px;" />
+  <!-- <img src="/images/gallery/wpi_gompei.jpg" width="300" style="margin-right: 10px;" /> -->
   <img src="/images/gallery/wpi_gompei2.jpg" width="300" />
 </div>
 
