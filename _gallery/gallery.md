@@ -13,7 +13,6 @@ permalink: /gallery/
 
 <div style="display: inline-block;">
   <img src="/images/gallery/nokia_entrance.jpeg" width="300" style="vertical-align: top; margin-right: 10px;" />
-  <img src="/images/gallery/nokia_auditorium.jpeg" width="300" style="vertical-align: top;" />
 </div>
 
 ## Perception and Autonomous Robotics (PeAR) group, WPI
