@@ -9,9 +9,17 @@ permalink: /gallery/
 # location: "San Francisco, California"
 ---
 
-## Overall pipeline
+## PeAR lab, WPI
 
 <div style="display: inline-block;">
-  <img src="/images/einstein_vision/einstein_vision_pipeline.png" width="300" style="vertical-align: top; margin-right: 10px;" />
-  <img src="/images/einstein_vision/einstein_vision_pipeline.png" width="300" style="vertical-align: top;" />
+  <img src="/images/gallery/with_prof.jpeg" width="300" style="vertical-align: top; margin-right: 10px;" />
+  <img src="/images/gallery/team2.jpg" width="300" style="vertical-align: top;" />
+  <img src="/images/gallery/team1.jpg" width="300" style="vertical-align: top;" />
+</div>
+
+## Capstone project presentation, WPI
+
+<div style="display: inline-block;">
+  <img src="/images/gallery/capstone1.JPG" width="300" style="vertical-align: top; margin-right: 10px;" />
+  <img src="/images/gallery/capstone2.JPG" width="300" style="vertical-align: top;" />
 </div>
