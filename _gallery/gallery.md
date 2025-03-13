@@ -43,14 +43,15 @@ permalink: /gallery/
 <div style="display: flex;">
   <img src="/images/gallery/eysip1.jpg" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/eysip3.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/eysip4.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Project MANAS, Manipal Institute of Technology, India (2021)
 
 <div style="display: flex;">
-  <img src="/images/gallery/manas.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/manas3.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/manas2.jpg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/manas3.JPG" width="300" />
+  <img src="/images/gallery/manas.JPG" width="300" />
 </div>
 
 ## Millennium National School, India (2016)
