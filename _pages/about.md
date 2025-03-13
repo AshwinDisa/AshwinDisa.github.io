@@ -10,6 +10,7 @@ redirect_from:
 
 <div style="float: right; margin: 0 0 1em 1em;">
   <img src="images/home_page_images/wpi.png" alt="Image description" width="140">
+</div>
 
 📚️ A master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision and Aerial Robotics. Completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
 
@@ -21,6 +22,7 @@ redirect_from:
 
 <div style="float: right; margin: 0 0 1em 1em;">
   <img src="images/home_page_images/pear.png" alt="Image description" width="150">
+</div>
 
 ✈️ Previously, I was part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active and Novel Perception & Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using Deep Learning models. 
 
