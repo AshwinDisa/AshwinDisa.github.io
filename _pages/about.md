@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-📚️ A master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision and Aerial Robotics. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
-
 <div style="float: right; margin: 0 0 1em 1em;">
-  <img src="images/home_page_images/wpi.png" alt="Image description" width="200">
+  <img src="images/home_page_images/wpi.png" alt="Image description" width="180">
 </div>
+
+📚️ A master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision and Aerial Robotics. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
 
 🦾️ Currently, I am interning as a Robotics Software Co-op at Nokia [AIMS](https://www.nokia.com/industries/manufacturing-and-logistics/aims/) at the [Nokia Bell Labs](https://www.nokia.com/bell-labs/) campus. Working on an optimization problem using Mixed-Integer Linear Programming (MILP) for autonomous drone-based warehouse inventory monitoring system to solve complex routing and scheduling challenges. 
 
@@ -23,7 +23,7 @@ redirect_from:
 ✈️ Previously, I was part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active and Novel Perception & Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using Deep Learning models. 
 
 <div style="float: right; margin: 0 0 1em 1em;">
-  <img src="images/home_page_images/pear.png" alt="Image description" width="200">
+  <img src="images/home_page_images/pear.png" alt="Image description" width="180">
 </div>
 
 <!--  
