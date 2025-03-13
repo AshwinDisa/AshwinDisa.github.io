@@ -24,6 +24,10 @@ permalink: /experience/
 :   Robotics Software Co-op, _Feb 2025 - Present_
 * Perception and Autonomous Robotics Group, WPI
 :   Research Assistant, _Jul 2024 - Dec 2024_
+* Teaching Assistant, WPI
+:   Grader for RBE 550 - Motion Planning graduate course, _Aug 2024 - Present_
+* Undergraduate Assistant, WPI
+:   Exam Proctor, _Jan 2024 - Dec 2024_
 * Robotics Research Center, IIIT Hyderabad
 :   Research Intern, _December 2022 - May 2023_
 * E-Yantra Summer Internship Program, IIT Bombay (Online)
