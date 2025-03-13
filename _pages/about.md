@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="float: right; margin: 0 0 2em 2em;">
-  <img src="images/home_page_images/0pi.png" alt="Image description" width="120">
+  <img src="images/home_page_images/wpi.png" alt="Image description" width="120">
 </div>
 
 📚️ A master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision and Aerial Robotics. Completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
