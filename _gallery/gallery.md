@@ -9,13 +9,13 @@ permalink: /gallery/
 # location: "San Francisco, California"
 ---
 
-## Nokia Bell Labs
+## AIMS, Nokia Bell Labs, New Jersey (2025)
 
 <div style="display: inline-block;">
   <img src="/images/gallery/nokia_entrance.jpeg" width="300" style="vertical-align: top; margin-right: 10px;" />
 </div>
 
-## Perception and Autonomous Robotics (PeAR) group, WPI
+## Perception and Autonomous Robotics (PeAR) group, Worcester (2024)
 
 <div style="display: flex;">
   <img src="/images/gallery/with_prof.jpeg" width="300" style="margin-right: 10px;" />
@@ -23,14 +23,14 @@ permalink: /gallery/
   <img src="/images/gallery/team2.jpg" width="300" />
 </div>
 
-## Robotics capstone project presentation, WPI
+## Robotics capstone project presentation, Worcester (2024)
 
 <div style="display: flex;">
   <img src="/images/gallery/capstone3.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/capstone2.JPG" width="300" style="margin-right: 10px;" />
 </div>
 
-## Worcester Polytechnic Institute (WPI)
+## Worcester Polytechnic Institute (WPI), Worcester (2023)
 
 <div style="display: flex;">
   <img src="/images/gallery/wpi.jpg" width="300" style="margin-right: 10px;" />
@@ -38,14 +38,14 @@ permalink: /gallery/
   <img src="/images/gallery/wpi_gompei2.jpg" width="300" />
 </div>
 
-## EYantra Summer Internship program, IIT Bombay
+## e-Yantra Summer Internship Program, IIT Bombay, India (2022)
 
 <div style="display: flex;">
   <img src="/images/gallery/eysip1.jpg" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/eysip3.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
-## Project Manas, Manipal Institute of Technology
+## Project MANAS, Manipal Institute of Technology, India (2021)
 
 <div style="display: flex;">
   <img src="/images/gallery/manas.JPG" width="300" style="margin-right: 10px;" />
