@@ -20,11 +20,11 @@ redirect_from:
   <img src="images/home_page_images/nokia_bell_labs.png" alt="Image description" width="180">
 </div>
 
+✈️ Previously, I was part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active and Novel Perception & Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using Deep Learning models. 
+
 <div style="float: right; margin: 2em 0 2em 2em;">
   <img src="images/home_page_images/pear.png" alt="Image description" width="130">
 </div>
-
-✈️ Previously, I was part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active and Novel Perception & Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using Deep Learning models. 
 
 <!--  
 🥇️ I participated in the [E-Yantra](https://www.e-yantra.org/) Robotics Competition 2021-22 hosted by IIT, Bombay. Our team won the competition out of 242 teams in the [DairyBike theme](https://www.youtube.com/watch?v=JBToTeWyXHE). Subsequently, I got an opportunity to work at E-Yantra's summer internship program, where my team implemented a PID controller on an Omnidirectional Micro Aerial Vehicle (OMAV) in simulation environment.  -->
