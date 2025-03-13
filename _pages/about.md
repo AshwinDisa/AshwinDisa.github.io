@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-📚️ I'm a master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision, Motion Planning, Controls and State Estimation. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
+📚️ A master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision and Aerial Robotics. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
 
-🦾️ Currently, I am interning as a Robotics Software Co-op at Nokia [AIMS](https://www.nokia.com/industries/manufacturing-and-logistics/aims/) at the historical Nokia Bell Labs campus. Working on an optimization problem using Mixed-Integer Linear Programming (MILP) for autonomous drone-based warehouse inventory monitoring system to solve complex routing and scheduling challenges. 
+🦾️ Currently, I am interning as a Robotics Software Co-op at Nokia [AIMS](https://www.nokia.com/industries/manufacturing-and-logistics/aims/) at the [Nokia Bell Labs](https://www.nokia.com/bell-labs/) campus. Working on an optimization problem using Mixed-Integer Linear Programming (MILP) for autonomous drone-based warehouse inventory monitoring system to solve complex routing and scheduling challenges. 
 
 
-✈️ Previously, I was a part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active Perception, Interactive Perception, Novel Perception and Novel Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of miniature drones using using Deep learning models. 
- 
-🥇️ I participated in the [E-Yantra](https://www.e-yantra.org/) Robotics Competition 2021-22 hosted by IIT, Bombay. Our team won the competition out of 242 teams in the [DairyBike theme](https://www.youtube.com/watch?v=JBToTeWyXHE). Subsequently, I got an opportunity to work at E-Yantra's summer internship program, where my team implemented a PID controller on an Omnidirectional Micro Aerial Vehicle (OMAV) in simulation environment. 
+✈️ Previously, I was part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active and Novel Perception & Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using Deep Learning models. 
+<!--  
+🥇️ I participated in the [E-Yantra](https://www.e-yantra.org/) Robotics Competition 2021-22 hosted by IIT, Bombay. Our team won the competition out of 242 teams in the [DairyBike theme](https://www.youtube.com/watch?v=JBToTeWyXHE). Subsequently, I got an opportunity to work at E-Yantra's summer internship program, where my team implemented a PID controller on an Omnidirectional Micro Aerial Vehicle (OMAV) in simulation environment.  -->
 
 🏎️ Apart from this, I love watching snooker and Formula 1 racing (Forza Ferrari). I also enjoy solving Rubik's cube, photography and running.  
 

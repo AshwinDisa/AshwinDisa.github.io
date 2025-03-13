@@ -9,7 +9,7 @@ permalink: /gallery/
 # location: "San Francisco, California"
 ---
 
-## AIMS, Nokia Bell Labs, New Jersey (2025)
+## Nokia Bell Labs, New Jersey (2025)
 
 <div style="display: inline-block;">
   <img src="/images/gallery/nokia_entrance.jpeg" width="300" style="vertical-align: top; margin-right: 10px;" />
