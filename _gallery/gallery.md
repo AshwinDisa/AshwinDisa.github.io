@@ -53,6 +53,13 @@ permalink: /gallery/
   <img src="/images/gallery/manas3.JPG" width="300" />
 </div>
 
+## Millennium National School, India (2016)
+
+<div style="display: flex;">
+  <img src="/images/gallery/mns1.jpg" width="400" style="margin-right: 10px;" />
+  <img src="/images/gallery/mns23.JPG" width="400" style="margin-right: 10px;" />
+</div>
+
 
 
 
