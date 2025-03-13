@@ -57,7 +57,7 @@ permalink: /gallery/
 
 <div style="display: flex;">
   <img src="/images/gallery/mns1.jpg" width="400" style="margin-right: 10px;" />
-  <img src="/images/gallery/mns23.JPG" width="400" style="margin-right: 10px;" />
+  <img src="/images/gallery/mns2.JPG" width="400" style="margin-right: 10px;" />
 </div>
 
 
