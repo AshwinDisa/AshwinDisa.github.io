@@ -23,10 +23,10 @@ permalink: /publications/
 
 ## Competitions
 
-* Winner of E-Yantra Robotics Competition 2021-22 hosted by IIT Bombay
+* Winner of e-Yantra Robotics Competition 2021-22 hosted by IIT Bombay
 :    4 members, 242 participating teams
 :    [Certificate](/files/eyrc.pdf), [Demonstration video](https://youtu.be/JBToTeWyXHE)
 
 * 2nd best in Flight Readiness Review, 18th overall in AUVSI SUAS Competition 2022
-:    >25 members, part of Project MANAS at MIT
+:    > 25 members, part of Project MANAS at MIT
 :    [Results](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0_wulZ_djNrAeuGUOWQXyDoUyD6lgD5H7W9tqT8LZu__uv6s0OiEsDP0lbRetUTWTqQ9S1RAdvAr/pubhtml#)
