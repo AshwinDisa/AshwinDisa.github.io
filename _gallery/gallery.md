@@ -12,7 +12,8 @@ permalink: /gallery/
 ## Nokia Bell Labs, New Jersey (2025)
 
 <div style="display: inline-block;">
-  <img src="/images/gallery/nokia_entrance.jpeg" width="300" style="vertical-align: top; margin-right: 10px;" />
+  <img src="/images/gallery/nokia_entrance.jpeg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/aims.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Perception and Autonomous Robotics (PeAR) group, Worcester (2024)
