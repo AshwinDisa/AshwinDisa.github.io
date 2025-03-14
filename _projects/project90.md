@@ -1,12 +1,14 @@
 ---
 title: "Road scene understanding from a monocular camera"
-excerpt: "Leveraging deep learning techniques for ADAS <br/><img src='/images/einstein_vision.png' width='400'/>"
-collection: projects
+excerpt: "Leveraging deep learning techniques for ADAS, inspired by Tesla's dashboard. <br/><img src='/images/einstein_vision/front_page.png' width='700'/>"
+collection: projects0
 ---
 
-🏆 Received best project award.
+🏆 Received best project award. 
 
 [Report link](https://pear.wpi.edu/img/teaching/rbe549/spring2024/studentoutputs/p3ph3/group6.pdf)
+
+[Videos link](https://drive.google.com/drive/folders/1CJCeW76BaHnwK_IOGddnEH1P74_26gPh?usp=sharing)
 
 The project is inspired by Tesla’s dashboard focusing on enhancing essential autonomous driving features contributing to the development of safer and more efficient ADAS technologies.
 
