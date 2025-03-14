@@ -4,6 +4,10 @@ excerpt: "Forward, Inverse, Velocity Kinematics of a 4 dof manipulator.<br/><img
 collection: projects
 ---
 
+[Github](https://github.com/AshwinDisa/OpenManipulatorX_ROS2)
+
+[Demonstration Video](https://youtube.com/shorts/_iANV6D9pfc)
+
 ### Forward Kinematics
 Given the joint angles, the goal is to estimate the end -effector position.
 
@@ -108,10 +112,6 @@ def makeJacobian(self, q1, q2, q3, q4):
 
     return jacob
 ```
-
-[Github repo link](https://github.com/AshwinDisa/OpenManipulatorX_ROS2)
-
-[Pick and Place using Inverse Kinematics](https://youtube.com/shorts/_iANV6D9pfc)
 
 Contributors: Samuel Rooney, Pingze He
 
