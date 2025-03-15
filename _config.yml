@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ashwin Disa"
   avatar           : "/gallery/nokia_entrance_zoomed.jpeg"
-  bio              : "Learning Robotics. Passionate about Computer Vision and Aerial Robotics"
+  bio              : "Learning Robotics. Passionate about Computer Vision and Aerial Robotics."
   location         : "Jersey City, NJ"
-  employer         : "AIMS, Nokia Bell Labs"
-  university       : "Worcester Polytechnic Institute"
+  employer         : "Worcester Polytechnic Institute (WPI)"
+  # university       : ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :

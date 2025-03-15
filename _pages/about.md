@@ -24,12 +24,12 @@ redirect_from:
   <img src="images/home_page_images/pear.png" alt="Image description" width="120">
 </div>
 
-✈️ Previously, I was part of Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation by building algorithms based on Active and Novel Perception & Sensing. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using Deep Learning models. 
+✈️ Previously, I worked at the Perception and Autonomous Robotics group [PeAR](https://pear.wpi.edu/index.html) at WPI under the guidance of Dr. Nitin Sanket as a research assistant. The lab focuses on advancing autonomy on tiny aerial robots using on-board sensing, perception and computation. I worked on depth map prediction from ultrasound for obstacle avoidance of tiny drones using deep learning. 
 
 <!--  
 🥇️ I participated in the [E-Yantra](https://www.e-yantra.org/) Robotics Competition 2021-22 hosted by IIT, Bombay. Our team won the competition out of 242 teams in the [DairyBike theme](https://www.youtube.com/watch?v=JBToTeWyXHE). Subsequently, I got an opportunity to work at E-Yantra's summer internship program, where my team implemented a PID controller on an Omnidirectional Micro Aerial Vehicle (OMAV) in simulation environment.  -->
 
-🏎️ Apart from this, I love watching snooker and Formula 1 racing (Forza Ferrari). I also enjoy solving Rubik's cube, photography and running.  
+🏎️ Apart from this, I love watching snooker and Formula 1 racing (Forza Ferrari). I also enjoy solving the Rubik's cube, photography and running.  
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
