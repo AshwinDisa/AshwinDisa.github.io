@@ -20,7 +20,7 @@ permalink: /experience/
 * Project MANAS, Manipal
     * Mechanical Division Head, _April 2021 - May 2022_ -->
 
-* Nokia AIMS, Nokia Bell Labs, NJ
+* AIMS, Nokia Bell Labs, NJ
 :   Robotics Software Co-op, _Feb 2025 - Present_
 * Perception and Autonomous Robotics Group, WPI
 :   Research Assistant, _Jul 2024 - Dec 2024_
