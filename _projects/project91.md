@@ -4,7 +4,9 @@ excerpt: "Deep learning based 3D reconstruction and novel view synthesis.<br/><i
 collection: projects
 ---
 
-For more details - [Project Report](https://github.com/AshwinDisa/AshwinDisa.github.io/blob/master/files/sfm_report.pdf)
+<!-- For more details - [Project Report](https://github.com/AshwinDisa/AshwinDisa.github.io/blob/master/files/sfm_report.pdf) -->
+
+For more details - [Project Report](https://ashwindisa.github.io/files/sfm_report.pdf)
 
 <!-- [Github](https://github.com/Mihir-Deshmukh/SfM_NeRF/tree/main) -->
 
