@@ -23,8 +23,8 @@ The model, based on the original NeRF architecture with positional encoding and 
 <br/><img src='/images/nerf1.png' width='600'/>"
 
 <div style="display: flex; gap: 20px;">
-  <img src="/images/nerf/lego.gif" width="300" />
-  <img src="/images/nerf/ship.gif" width="300" />
+  <img src="/images/nerf/lego_indefinite.gif" width="300" />
+  <img src="/images/nerf/ship_indefinite.gif" width="300" />
 </div>
 
 ### 3D reconstruction using COLMAP 
