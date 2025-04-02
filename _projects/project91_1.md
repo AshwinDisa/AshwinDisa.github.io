@@ -21,30 +21,30 @@ Cheirality condition using Triangulation, PnP and Bundle Adjustment.
 
 Set of monocular images used for 3D reconstruction and pose estimation.
 
-<br/><img src='/images/sfm_merged_4.png' width='600'/>"
+<br/><img src='/images/sfm_merged_4.png' width='500'/>"
 
 ### Triangulation Check for Cheirality Condition
 
 Initial 3D points are triangulated and validated using the cheirality condition.
 
-<br/><img src='/images/sfm/triangulation.png' width='600'/>"
+<br/><img src='/images/sfm/triangulation.png' width='450'/>"
 
 ### Perspective-n-Points (PnP)
 
 Camera poses are refined using PnP with 2D-3D correspondences.
 
-<br/><img src='/images/sfm/AfterPnP.png' width='600'/>"
+<br/><img src='/images/sfm/AfterPnP.png' width='450'/>"
 
 ### Nonlinear Reprojection
 
 Reprojection error minimized by refining poses and 3D points nonlinearly.
 
-<br/><img src='/images/sfm/nonlinear_reproj_1.png' width='600'/>"
+<br/><img src='/images/sfm/nonlinear_reproj_1.png' width='450'/>"
 
 ### Bundle Adjustment
 
 Global optimization of camera poses and 3D points to improve reconstruction accuracy.
 
-<br/><img src='/images/sfm.png' width='600'/>"
+<br/><img src='/images/sfm.png' width='450'/>"
 
 Contributors: Mihir Deshmukh
