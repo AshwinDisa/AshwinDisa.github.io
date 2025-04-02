@@ -20,7 +20,7 @@ Cheirality condition using Triangulation, PnP and Bundle Adjustment.
 ### Input images
 
 Set of monocular images used for 3D reconstruction and pose estimation.
-
+    
 <br/><img src='/images/sfm_merged_4.png' width='500'/>"
 
 ### Triangulation Check for Cheirality Condition
