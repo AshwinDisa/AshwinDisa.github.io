@@ -6,7 +6,7 @@ collection: projects0
 
 🏆 Received best project award. 
 
-For more details - [Project Report](https://pear.wpi.edu/img/teaching/rbe549/spring2024/studentoutputs/p3ph3/group6.pdf)
+For more details - [Project Report](https://ashwindisa.github.io/files/einstein_report.pdf)
 
 [Demonstration Videos](https://drive.google.com/drive/folders/1CJCeW76BaHnwK_IOGddnEH1P74_26gPh?usp=sharing)
 
