@@ -1,7 +1,7 @@
 ---
 title: "Neural Radiance Field (NeRFs)"
 # excerpt: "Deep learning based 3D reconstruction and novel view synthesis.<br/><img src='/images/nerf/nerf.png' width='300'/>"
-excerpt: "Deep learning based 3D reconstruction and novel view synthesis.<br/><br/><img src='/images/nerf/colmap.png' width='350'/><img src='/images/nerf/lego_indefinite-unscreen.gif' width='350' />"
+excerpt: "Deep learning based 3D reconstruction and novel view synthesis.<br/><br/><img src='/images/nerf/colmap.png' width='350'/><img src='/images/nerf/lego-indefinite-unscreen.gif' width='350' />"
 
 collection: projects
 ---
