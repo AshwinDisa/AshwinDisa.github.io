@@ -1,38 +1,119 @@
 ---
-title: "Panorama stitching"
-excerpt: "Stitch two or more images to create seamless panorama image.<br/><img src='/images/panorama/merged_all.png' width='700'/>"
+title: "OpenManipulatorX with ROS2"
+excerpt: "Forward, Inverse, Velocity Kinematics of a 4 dof manipulator.<br/><img src='/images/openmanipulatorX.jpg' width='350'/>"
 collection: projects
 ---
 
-For more details - [Project Report](https://ashwindisa.github.io/files/panorama_report.pdf)
+[Github](https://github.com/AshwinDisa/OpenManipulatorX_ROS2)
 
-[Github](https://github.com/AshwinDisa/RBE549_AutoPano)
+[Demonstration Video](https://youtube.com/shorts/_iANV6D9pfc)
 
-### Input data
+### Forward Kinematics
+Given the joint angles, the goal is to estimate the end -effector position.
 
-Monocular images with 30 − 50% overlap.
+The DH parameters table used for Forward Kinematics is shown here.
 
-<br/><img src='/images/panorama/dataset.png' width='600'/>"
+<br/><img src='/images/dh.png' width='600'/>"
 
-### Corner detection
+The equations to obtain the x, y and z coordinates of the end-effector are - 
 
-Harris corner & Adaptive Non-maximal Suppression (ANMS) for uniform distribution of features
+```
+# q1, q2, q3, q4 are the joint angles in radians.
 
-<br/><img src='/images/panorama/corners.png' width='450'/>"
+x = math.cos(q1) * (133.4*math.cos(q2+q3+q4) + 130.2*(math.cos(q2 - 1.39)) + 124*math.cos(q2+q3))
+y = math.sin(q1) * (133.4*math.cos(q2+q3+q4) + 130.2*(math.cos(q2 - 1.39)) + 124*math.cos(q2+q3))
+z = 48163/500 - (651*math.sin(q2 - 139/100))/5 - 124*math.sin(q2 + q3) - (667*math.sin(q2 + q3 + q4))/5
+```
 
-### Feature matching and RANSAC for outlier rejection
+### Inverse Kinemtics
+Given the end-effector positions in x, y, z, the goal is to estimate the joint angles.
+This was done using analytical/geometrical approach. The 4 dof problem is broken down into a 3-link planar chain (for q2, q3, q4) and a yaw (for q1) problem. The algorithm makes sure that the end-effector joint always faces down rather an arbitrary orientation, which makes pick/place easier. The following code snippet shows the code to calculate the joint angles.
 
-Match keypoints (encoded as feature vectors) across pair of images. Refine the matches using RANSAC. 
+```
+def inverse_kinematics(self, xe, ye, ze, gamma):
 
-<br/><img src='/images/panorama/matching_merged.png' width='650'/>"
+    l12 = 130.23
+    l23 = 124
+    l34 = 133.4
+    offset = 79.38
 
-### Stitch all images
+    g = np.radians(gamma)
 
-Estimated homography using the refined matches, warp and stitch images with overlap.
+    J1a, J2a, J3a = 0.0, 0.0, 0.0
 
-<br/><img src='/images/panorama/pano1.png' width='500'/>"
+    theta1 = math.atan(ye/xe)
 
-### More panoramas
+    x3 = xe - (l34*math.cos(g))
+    z3 = ze - (l34*math.sin(g))
+    c = math.sqrt(x3**2 + z3**2)
 
-<br/><img src='/images/panorama/more_pano_merged.png' width='600'/>"
+    if ((l12 + l23) > c):
+
+        a = math.acos((l12**2 + l23**2 - c**2)/(2*l12*l23))
+        B = math.acos((l12**2 + c**2 - l23**2)/(2*l12*c))
+
+        # elbow-down
+        J1a = -(math.atan(z3/x3)-B - np.radians(offset))
+        J2a = -(math.pi-a + np.radians(offset))
+        J3a = -(g - J1a -J2a)
+
+        # elbow-up
+        J1b = -(math.atan(z3/x3)+B - np.radians(offset))
+        J2b = math.pi-a -np.radians(offset)
+
+        J1b_new = math.atan(z3/x3) + B
+        J2b_new = -(math.pi - a)
+
+        J3b_new = -(g - J1b_new - J2b_new)
+
+    else:
+        print("dimension error!")
+
+    angles = np.array([theta1, J1b, J2b, J3b_new])
+
+    return angles
+
+
+```
+
+### Velocity Kinematics
+Given the end-effector velocity in 3d, the goal is to find the individual joint velocities using a Jacobian matrix. The following code snippet shows the construction of the Jacobian matrix.
+
+```
+def makeJacobian(self, q1, q2, q3, q4):
+
+    L12 = 96.326
+    L3 = 130.23
+    L4 = 124
+    L5 = 133.4
+
+    # assume joint positions are passed in as radians
+    
+    q2preload = math.radians(10.807)
+    q34preload = math.radians(90)
+    
+    x_star = (L3 * math.sin(q2 + q2preload)) + (L4 * math.sin(q2+q3+q34preload)) + (L5 * math.sin(q2+q3+q4+q34preload))
+    
+    q4xy = L5 * math.cos(q2+q3+q4+q34preload)
+    q3xy = q4xy + (L4 * math.cos(q2+q3+q34preload))
+    q2xy = q3xy + (L3 * math.cos(q2+q2preload))
+    
+    q4z = -(L5 * math.sin(q2+q3+q4+q34preload))
+    q3z = q4z - (L4*math.sin(q2+q3+q34preload))
+    q2z = q3z - (L3*math.sin(q2+q2preload))
+    
+    c1 = math.cos(q1)
+    s1 = math.sin(q1)
+    
+    #                       q1dot       q2dot       q3dot       q4dot
+    jacob = np.array([[-x_star * s1,  c1 * q2xy,  c1 * q3xy,  c1 * q4xy],   # x
+                        [ x_star * c1,  s1 * q2xy,  s1 * q3xy,  s1 * q4xy],   # y
+                        [           0,        q2z,        q3z,        q4z]])  # z
+
+    return jacob
+```
+
+Contributors: Samuel Rooney, Pingze He
+
+Final project for RBE500 - Foundations of Robotics Fall 2023 by Prof. Berk Calli at WPI.
 
