@@ -1,6 +1,6 @@
 ---
-title: "Structure from Motion (SfM) and NeRF"
-excerpt: "3D reconstruction of scenes from images and novel view synthesis.<br/><img src='/images/colmap_nerf_merge.png' width='700'/>"
+title: "Structure from Motion (SfM)"
+excerpt: "Classical computer vision based 3D reconstruction of scene from images. <br/><img src='/images/sfm/intro_merged.png' width='700'/>"
 collection: projects
 ---
 
