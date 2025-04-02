@@ -1,6 +1,9 @@
 ---
 title: "Neural Radiance Field (NeRFs)"
-excerpt: "Deep learning based 3D reconstruction and novel view synthesis.<br/><img src='/images/colmap_nerf_merge.png' width='700'/>"
+excerpt: "Deep learning based 3D reconstruction and novel view synthesis.<br/><div style="display: flex; gap: 20px;">
+  <img src="/images/nerf/lego.gif" width="300" />
+  <img src="/images/nerf/ship.gif" width="300" />
+</div>"
 collection: projects
 ---
 
@@ -20,9 +23,10 @@ The model, based on the original NeRF architecture with positional encoding and 
 
 <br/><img src='/images/nerf1.png' width='600'/>"
 
-<br/><img src='/images/nerf/lego.gif' width='600'/>"
-
-<br/><img src='/images/nerf/ship.gif' width='600'/>"
+<div style="display: flex; gap: 20px;">
+  <img src="/images/nerf/lego.gif" width="300" />
+  <img src="/images/nerf/ship.gif" width="300" />
+</div>
 
 ### 3D reconstruction using COLMAP 
 
