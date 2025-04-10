@@ -20,14 +20,13 @@ permalink: /gallery/
 
 <div style="display: flex;">
   <img src="/images/gallery/with_prof.jpeg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/team1.jpg" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/team2.jpg" width="300" />
 </div>
 
 ## Robotics capstone project presentation, Worcester (2024)
 
 <div style="display: flex;">
-  <img src="/images/gallery/capstone3.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/capstone3.png" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/capstone2.JPG" width="300" style="margin-right: 10px;" />
 </div>
 
