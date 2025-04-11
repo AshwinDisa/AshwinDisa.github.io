@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashwin Disa"
-  avatar           : "/images/photo.jpeg"
+  avatar           : "images/photo.jpeg"
   bio              : "Learning Robotics. Passionate about Computer Vision and Aerial Robotics."
   location         : "Jersey City, NJ"
   employer         : "Worcester Polytechnic Institute (WPI)"
