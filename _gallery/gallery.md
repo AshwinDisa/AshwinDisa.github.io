@@ -12,9 +12,9 @@ permalink: /gallery/
 ## AIMS, Nokia Bell Labs, New Jersey (2025)
 
 <div style="display: inline-block;">
-  <img src="/images/gallery/nokia_entrance.jpeg" width="270" style="margin-right: 10px;" />
-  <img src="/images/gallery/aims.jpg" width="270" />
-  <img src="/images/gallery/yann_cropped.jpg" width="270" />
+  <!-- <img src="/images/gallery/nokia_entrance.jpeg" width="270" style="margin-right: 10px;" /> -->
+  <img src="/images/gallery/aims.jpg" width="300" />
+  <img src="/images/gallery/yann_cropped.jpg" width="300" />
 </div>
 
 ## Perception and Autonomous Robotics (PeAR) group, Worcester (2024)
@@ -50,7 +50,7 @@ permalink: /gallery/
 ## Project MANAS, Manipal Institute of Technology, India (2021)
 
 <div style="display: flex;">
-  <img src="/images/gallery/manas3.JPG" width="300" style="margin-right: 10px;" />
+  <!-- <img src="/images/gallery/manas3.JPG" width="300" style="margin-right: 10px;" /> -->
   <img src="/images/gallery/manas2.jpg" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/manas.JPG" width="300" />
 </div>
