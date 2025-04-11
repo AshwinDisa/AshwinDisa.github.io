@@ -14,6 +14,7 @@ permalink: /gallery/
 <div style="display: inline-block;">
   <img src="/images/gallery/nokia_entrance.jpeg" width="270" style="margin-right: 10px;" />
   <img src="/images/gallery/aims.jpg" width="270" style="margin-right: 10px;" />
+  <img src="/images/gallery/yann_cropped.jpg" width="270" style="margin-right: 10px;" />
 </div>
 
 ## Perception and Autonomous Robotics (PeAR) group, Worcester (2024)
