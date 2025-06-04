@@ -11,20 +11,31 @@ permalink: /gallery/
 
 ## WPI Graduation, Worcester (2025)
 
-<div style="display: inline-block;">
-  <!-- <img src="/images/gallery/nokia_entrance.jpeg" width="270" style="margin-right: 10px;" /> -->
+<!-- <div style="display: inline-block;">
   <img src="/images/gallery/grad1_crop.JPG" width="300" />
   <img src="/images/gallery/grad2.JPG" width="300" />
   <img src="/images/gallery/grad3.jpg" width="300" />
+</div> -->
+
+<div style="display: flex;">
+  <img src="/images/gallery/grad1_crop.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/grad2.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/grad3.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Nokia AIMS, New Jersey (2025)
 
-<div style="display: inline-block;">
-  <!-- <img src="/images/gallery/nokia_entrance.jpeg" width="270" style="margin-right: 10px;" /> -->
+<!-- <div style="display: inline-block;">
+  <!-- <img src="/images/gallery/nokia_entrance.jpeg" width="270" style="margin-right: 10px;" />
   <img src="/images/gallery/aims.jpg" width="300" />
   <img src="/images/gallery/aims_team.JPG" width="300" />
   <img src="/images/gallery/yann_cropped.jpg" width="300" />
+</div> -->
+
+<div style="display: flex;">
+  <img src="/images/gallery/aims.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/aims_team.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/yann_cropped.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Perception and Autonomous Robotics (PeAR) group, Worcester (2024)
