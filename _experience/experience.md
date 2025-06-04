@@ -21,11 +21,11 @@ permalink: /experience/
     * Mechanical Division Head, _April 2021 - May 2022_ -->
 
 * Nokia AIMS, Nokia Bell Labs, NJ
-:   Robotics Software Co-op, _Feb 2025 - _May 2025
+:   Robotics Software Co-op, _Feb 2025 - May 2025_
 * Perception and Autonomous Robotics (PeAR) group, WPI
 :   Research Assistant, _Jul 2024 - Dec 2024_
 * Teaching Assistant, WPI
-:   Grader for RBE550 - Motion Planning graduate course, _Aug 2024 - _May 2025
+:   Grader for RBE550 - Motion Planning graduate course, _Aug 2024 - May 2025_
 * Undergraduate Assistant, WPI
 :   Exam Proctor, _Jan 2024 - Dec 2024_
 * Robotics Research Center, IIIT Hyderabad
