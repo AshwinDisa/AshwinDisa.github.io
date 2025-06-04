@@ -8,6 +8,8 @@ collection: projects
 
 <!-- For more details - [Project Report](https://github.com/AshwinDisa/AshwinDisa.github.io/blob/master/files/sfm_report.pdf) -->
 
+<br/><img src='/images/nerf/colmap.png' width='300'/><img src='/images/nerf/lego_indefinite_no_bgd.gif' width='300'/>
+
 For more details - [Project Report](https://ashwindisa.github.io/files/sfm_report.pdf)
 
 <!-- [Github](https://github.com/Mihir-Deshmukh/SfM_NeRF/tree/main) -->

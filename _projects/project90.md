@@ -4,7 +4,7 @@ excerpt: "Leveraging deep learning techniques for ADAS, inspired by Tesla's dash
 collection: projects0
 ---
 
-<img src='/images/einstein_vision/viz.gif' width='600'/>
+<br/><img src='/images/einstein_vision/viz.gif' width='600'/>
 
 🏆 Received best project award. 
 
