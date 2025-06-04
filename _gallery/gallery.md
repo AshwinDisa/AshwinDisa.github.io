@@ -20,7 +20,7 @@ permalink: /gallery/
 <div style="display: flex;">
   <img src="/images/gallery/grad1_crop.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/grad2_crop.JPG" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/grad3.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/grad3_crop.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
 ## Nokia AIMS, New Jersey (2025)
@@ -44,7 +44,7 @@ permalink: /gallery/
   <img src="/images/gallery/with_prof.jpeg" width="300" style="margin-right: 10px;" />
   <!-- <img src="/images/gallery/team2.jpg" width="300" /> -->
   <img src="/images/gallery/capstone2.JPG" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/grad_pear.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/grad_pear_crop.jpg" width="300" style="margin-right: 10px;" />
 
 </div>
 
