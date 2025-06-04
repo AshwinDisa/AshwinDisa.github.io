@@ -11,7 +11,9 @@ In this project, we recreate the seminal Victoria Park SLAM demonstration, in wh
 For more information - [Original project](https://www-personal.acfr.usyd.edu.au/nebot/victoria_park.htm)
 
 Primary objectives are to:
+
 1) Implement a SLAM algorithm (EKF-SLAM) suitable for the Victoria Park dataset.
+
 2) Accurately estimate the vehicle’s trajectory and the spatial coordinates of the tree landmarks.
 
 Leveraging the provided consolidated dataset—which includes steering angles, wheel-encoder velocities, and
@@ -27,7 +29,7 @@ measurements.
 First, the discrete motion model computes the robot’s incremental change in position and heading from the measured forward velocity and steering angle, taking into account the vehicle geometry and the elapsed time. Next, the Jacobian of this motion model with respect to the pose is evaluated to capture how small variations in the pose affect the predicted increment. To accommodate any additional state variables such as map landmarks, the pose-only Jacobian is embedded into the full-state Jacobian. The state vector is then updated by adding the predicted increment to the previous estimate, with the heading angle wrapped back into its valid range. Finally, the covariance is propagated through the linearized motion model, the process noise is added in the pose subspace, and the resulting covariance matrix is symmetrized to maintain numerical
 consistency.
 
-## Landmark detection
+### Landmark detection
 
 In the obstacle extraction step, the 360 degree laser scan data is first validated to ensure a one-dimensional array of measurements
 and to discard any readings beyond the maximum detection range of 80m. 
@@ -35,7 +37,7 @@ The remaining points are paired with their corresponding bearing angles and then
 Additional filtering removes segments that are too narrow in angular extent or fail to meet minimum range requirement of 1m. Finally, for each validated cluster, the midpoint distance and adjusted bearing (rotated by –90°) are computed. The
 algorithm returns a list of obstacle estimates, each specified by its range and bearing with respect to the robot.
 
-## Landmark association
+### Landmark association
 
 In the data association step, each new laser measurement must be matched to an existing landmark, declared as a new
 obstacle or discarded if ambiguous. 
@@ -45,7 +47,7 @@ any measurements in between are deemed too uncertain and discarded. This associa
 map updates use the correct correspondence between observations and landmarks, preventing spurious updates, maintaining a
 consistent map of obstacles, and properly initializing newly observed obstacles.
 
-## EKF Update/Correction
+### EKF Update/Correction
 
 In the laser measurement update step, the filter takes as input the current state, its covariance, and a set of range and bearing
 measurements to detected obstacles. A data association vector indicates for each measurement whether it corresponds to an
