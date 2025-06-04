@@ -19,7 +19,7 @@ permalink: /gallery/
 
 <div style="display: flex;">
   <img src="/images/gallery/grad1_crop.JPG" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/grad2.JPG" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/grad2_crop.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/grad3.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
@@ -34,7 +34,7 @@ permalink: /gallery/
 
 <div style="display: flex;">
   <img src="/images/gallery/aims.jpg" width="300" style="margin-right: 10px;" />
-  <img src="/images/gallery/aims_team.jpg" width="300" style="margin-right: 10px;" />
+  <img src="/images/gallery/aims_team.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/yann_cropped.jpg" width="300" style="margin-right: 10px;" />
 </div>
 
