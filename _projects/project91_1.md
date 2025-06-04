@@ -4,6 +4,8 @@ excerpt: "Classical computer vision based 3D reconstruction of scene from images
 collection: projects
 ---
 
+<img src='/images/sfm/intro_merged.png' width='500'/>
+
 <!-- For more details - [Project Report](https://github.com/AshwinDisa/AshwinDisa.github.io/blob/master/files/sfm_report.pdf) -->
 
 For more details - [Project Report](https://ashwindisa.github.io/files/sfm_report.pdf)

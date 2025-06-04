@@ -4,6 +4,8 @@ excerpt: "Sensor Fusion for EKF based SLAM. <br/><img src='/images/ekfslam/traj_
 collection: projects0
 ---
 
+<img src='/images/ekfslam/traj_viz.gif' width='500'/>
+
 ## Introduction
 
 In this project, we recreate the seminal Victoria Park SLAM demonstration, in which a truck equipped with a laser range finder traverses an Australian park, collecting range and bearing measurements to nearby trees. These measurements are fused with an Ackermann-steering kinematic model of the vehicle to simultaneously localize the truck and map the positions of the tree landmarks.
