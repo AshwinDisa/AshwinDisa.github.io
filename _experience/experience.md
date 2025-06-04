@@ -20,12 +20,12 @@ permalink: /experience/
 * Project MANAS, Manipal
     * Mechanical Division Head, _April 2021 - May 2022_ -->
 
-* AIMS, Nokia Bell Labs, NJ
-:   Robotics Software Co-op, _Feb 2025 - Present_
-* Perception and Autonomous Robotics Group, WPI
+* Nokia AIMS, Nokia Bell Labs, NJ
+:   Robotics Software Co-op, _Feb 2025 - _May 2025
+* Perception and Autonomous Robotics (PeAR) group, WPI
 :   Research Assistant, _Jul 2024 - Dec 2024_
 * Teaching Assistant, WPI
-:   Grader for RBE 550 - Motion Planning graduate course, _Aug 2024 - Present_
+:   Grader for RBE550 - Motion Planning graduate course, _Aug 2024 - _May 2025
 * Undergraduate Assistant, WPI
 :   Exam Proctor, _Jan 2024 - Dec 2024_
 * Robotics Research Center, IIIT Hyderabad
