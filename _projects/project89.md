@@ -4,7 +4,7 @@ excerpt: "Sensor Fusion for EKF based SLAM. <br/><img src='/images/ekfslam/traj_
 collection: projects0
 ---
 
-<img src='/images/ekfslam/traj_viz.gif' width='500'/>
+<br/><img src='/images/ekfslam/traj_viz.gif' width='500'/>
 
 ## Introduction
 
