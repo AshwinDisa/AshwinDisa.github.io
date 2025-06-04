@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ashwin Disa"
   avatar           : "photo.jpeg"
-  bio              : "Learning Robotics. Passionate about Computer Vision and Aerial Robotics."
-  location         : "Jersey City, NJ"
+  bio              : "Learning Robotics. Passionate about Perception and Autonomy."
+  location         : "Worcester, MA"
   employer         : "Worcester Polytechnic Institute (WPI)"
   # university       : ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

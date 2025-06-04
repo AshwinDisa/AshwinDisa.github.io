@@ -12,13 +12,13 @@ redirect_from:
   <img src="images/home_page_images/wpi.png" alt="Image description" width="120">
 </div>
 
-📚️ A master's student at Worcester Polytechnic Institute (WPI) majoring in Robotics Engineering with a keen interest in Computer Vision and Aerial Robotics. Completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
+📚️ I recently graduated from Worcester Polytechnic Institute (WPI) with a major in Robotics Engineering. I completed my bachelor's in Aeronautical Engineering from Manipal Institute of Technology, India. 
 
 <div style="float: left; margin: 0 0.5em 0.5em 0;">
   <img src="images/home_page_images/nokia_bell_labs.png" alt="Image description" width="165">
 </div>
 
-🦾️ Currently, I am interning as a Robotics Software Co-op at Nokia [AIMS](https://www.nokia.com/industries/manufacturing-and-logistics/aims/) at the [Nokia Bell Labs](https://www.nokia.com/bell-labs/) campus. Working on an optimization problem using Mixed-Integer Linear Programming (MILP) for autonomous drone-based warehouse inventory monitoring system to solve complex routing and scheduling challenges. 
+🦾️ I interned at Nokia [AIMS](https://www.nokia.com/industries/manufacturing-and-logistics/aims/) as a Robotics Software Co-op during my last semester at WPI, at the [Nokia Bell Labs](https://www.nokia.com/bell-labs/) campus in New Jersey. Worked on autonomous drone-based inventory monitoring service for warehouses focusing on solving complex routing challenges. 
 
 <div style="float: right; margin: 0 0 0 0.5em;">
   <img src="images/home_page_images/pear.png" alt="Image description" width="120">
