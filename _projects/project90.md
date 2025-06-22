@@ -1,6 +1,6 @@
 ---
 title: "Road scene understanding from a monocular camera"
-excerpt: "Leveraging deep learning techniques for ADAS, inspired by Tesla's dashboard. <br/><img src='/images/einstein_vision/viz.gif' width='700'/>"
+excerpt: "Leveraging deep learning techniques for ADAS, inspired by Tesla's dashboard.<br> <br/><img src='/images/einstein_vision/viz.gif' width='700'/>"
 collection: projects0
 ---
 
