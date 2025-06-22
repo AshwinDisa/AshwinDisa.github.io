@@ -9,7 +9,7 @@ permalink: /gallery/
 # location: "San Francisco, California"
 ---
 
-## WPI Graduation, Worcester (2025)
+<!-- ## WPI Graduation, Worcester (2025) -->
 
 <!-- <div style="display: inline-block;">
   <img src="/images/gallery/grad1_crop.JPG" width="300" />
@@ -17,11 +17,11 @@ permalink: /gallery/
   <img src="/images/gallery/grad3.jpg" width="300" />
 </div> -->
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <img src="/images/gallery/grad1_crop.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/grad2_crop.JPG" width="300" style="margin-right: 10px;" />
   <img src="/images/gallery/grad3_crop.jpg" width="300" style="margin-right: 10px;" />
-</div>
+</div> -->
 
 ## Nokia AIMS, New Jersey (2025)
 
@@ -79,12 +79,12 @@ permalink: /gallery/
   <img src="/images/gallery/manas.JPG" width="300" />
 </div> -->
 
-## Millennium National School, India (2016)
+<!-- ## Millennium National School, India (2016)
 
 <div style="display: flex;">
   <img src="/images/gallery/mns1.jpg" width="400" style="margin-right: 10px;" />
   <img src="/images/gallery/mns2.JPG" width="400" style="margin-right: 10px;" />
-</div>
+</div> -->
 
 
 
