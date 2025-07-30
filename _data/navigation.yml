@@ -10,12 +10,12 @@ main:
   - title: "Achievements"
     url: /achievements/
   
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/
 
-  - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
+  # - title: "CV"
+  #   # url: /cv/
+  #   url: /files/Resume.pdf
 
   # - title: "Portfolio"
   #   url: /portfolio/
